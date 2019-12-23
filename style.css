@@ -14,7 +14,7 @@ body {
     box-shadow: 0 2px 4px #333333;
 }
 #header {
-    background-color: #C51417;
+    background-color: #02ad8b;
     margin-bottom: 15px;
     padding: 10px;
 }
@@ -25,7 +25,7 @@ body {
 }
 
 #nav {
-    background-color: #534741;
+    background-color:#658fb6;
     height: 40px;
     margin-bottom: 15px;
     text-align: center;
@@ -61,7 +61,7 @@ body {
 
 
 #footer {
-    background-color: #534741;
+    background-color: #658fb6;
     clear: both;
     text-align: center;
     color: white;
